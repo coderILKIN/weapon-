@@ -1,0 +1,14 @@
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\bin\Debug\netcoreapp3.1\Weapon-class-task.exe
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\bin\Debug\netcoreapp3.1\Weapon-class-task.deps.json
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\bin\Debug\netcoreapp3.1\Weapon-class-task.runtimeconfig.json
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\bin\Debug\netcoreapp3.1\Weapon-class-task.runtimeconfig.dev.json
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\bin\Debug\netcoreapp3.1\Weapon-class-task.dll
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\bin\Debug\netcoreapp3.1\Weapon-class-task.pdb
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\obj\Debug\netcoreapp3.1\Weapon-class-task.csproj.AssemblyReference.cache
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\obj\Debug\netcoreapp3.1\Weapon-class-task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\obj\Debug\netcoreapp3.1\Weapon-class-task.AssemblyInfoInputs.cache
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\obj\Debug\netcoreapp3.1\Weapon-class-task.AssemblyInfo.cs
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\obj\Debug\netcoreapp3.1\Weapon-class-task.csproj.CoreCompileInputs.cache
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\obj\Debug\netcoreapp3.1\Weapon-class-task.dll
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\obj\Debug\netcoreapp3.1\Weapon-class-task.pdb
+C:\Users\ilkin\source\repos\Weapon-class-task\Weapon-class-task\obj\Debug\netcoreapp3.1\Weapon-class-task.genruntimeconfig.cache
